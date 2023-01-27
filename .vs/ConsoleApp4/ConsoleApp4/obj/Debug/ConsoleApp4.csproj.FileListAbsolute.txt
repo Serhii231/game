@@ -1,0 +1,95 @@
+C:\Users\Comp\source\repos\ConsoleApp4\ConsoleApp4\bin\Debug\ConsoleApp4.exe.config
+C:\Users\Comp\source\repos\ConsoleApp4\ConsoleApp4\bin\Debug\ConsoleApp4.exe
+C:\Users\Comp\source\repos\ConsoleApp4\ConsoleApp4\bin\Debug\ConsoleApp4.pdb
+C:\Users\Comp\source\repos\ConsoleApp4\ConsoleApp4\obj\Debug\ConsoleApp4.csprojAssemblyReference.cache
+C:\Users\Comp\source\repos\ConsoleApp4\ConsoleApp4\obj\Debug\ConsoleApp4.csproj.CoreCompileInputs.cache
+C:\Users\Comp\source\repos\ConsoleApp4\ConsoleApp4\obj\Debug\ConsoleApp4.exe
+C:\Users\Comp\source\repos\ConsoleApp4\ConsoleApp4\obj\Debug\ConsoleApp4.pdb
+C:\Users\Comp\source\repos\ConsoleApp4\ConsoleApp4\bin\Debug\MySql.Data.dll
+C:\Users\Comp\source\repos\ConsoleApp4\ConsoleApp4\bin\Debug\Google.Protobuf.dll
+C:\Users\Comp\source\repos\ConsoleApp4\ConsoleApp4\bin\Debug\Zstandard.Net.dll
+C:\Users\Comp\source\repos\ConsoleApp4\ConsoleApp4\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Comp\source\repos\ConsoleApp4\ConsoleApp4\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Comp\source\repos\ConsoleApp4\ConsoleApp4\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Comp\source\repos\ConsoleApp4\ConsoleApp4\bin\Debug\Renci.SshNet.dll
+C:\Users\Comp\source\repos\ConsoleApp4\ConsoleApp4\bin\Debug\System.Memory.dll
+C:\Users\Comp\source\repos\ConsoleApp4\ConsoleApp4\bin\Debug\System.Buffers.dll
+C:\Users\Comp\source\repos\ConsoleApp4\ConsoleApp4\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Comp\source\repos\ConsoleApp4\ConsoleApp4\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Comp\source\repos\ConsoleApp4\ConsoleApp4\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Comp\source\repos\ConsoleApp4\ConsoleApp4\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Comp\source\repos\ConsoleApp4\ConsoleApp4\bin\Debug\MySql.Data.xml
+C:\Users\Comp\source\repos\ConsoleApp4\ConsoleApp4\obj\Debug\ConsoleApp4.exe.config
+C:\Users\Comp\source\repos\ConsoleApp4\ConsoleApp4\obj\Debug\ConsoleApp4.csproj.CopyComplete
+C:\Users\Comp\source\repos\ConsoleApp4\ConsoleApp4\obj\Debug\ConsoleApp4.Form1.resources
+C:\Users\Comp\source\repos\ConsoleApp4\ConsoleApp4\obj\Debug\ConsoleApp4.csproj.GenerateResource.cache
+C:\Users\Comp\source\repos\ConsoleApp4\ConsoleApp4\obj\Debug\ConsoleApp4.Form2.resources
+C:\Users\Comp\Desktop\ConsoleApp4\ConsoleApp4\bin\Debug\ConsoleApp4.exe.config
+C:\Users\Comp\Desktop\ConsoleApp4\ConsoleApp4\bin\Debug\ConsoleApp4.exe
+C:\Users\Comp\Desktop\ConsoleApp4\ConsoleApp4\bin\Debug\ConsoleApp4.pdb
+C:\Users\Comp\Desktop\ConsoleApp4\ConsoleApp4\bin\Debug\MySql.Data.dll
+C:\Users\Comp\Desktop\ConsoleApp4\ConsoleApp4\bin\Debug\Google.Protobuf.dll
+C:\Users\Comp\Desktop\ConsoleApp4\ConsoleApp4\bin\Debug\Zstandard.Net.dll
+C:\Users\Comp\Desktop\ConsoleApp4\ConsoleApp4\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Comp\Desktop\ConsoleApp4\ConsoleApp4\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Comp\Desktop\ConsoleApp4\ConsoleApp4\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Comp\Desktop\ConsoleApp4\ConsoleApp4\bin\Debug\Renci.SshNet.dll
+C:\Users\Comp\Desktop\ConsoleApp4\ConsoleApp4\bin\Debug\System.Memory.dll
+C:\Users\Comp\Desktop\ConsoleApp4\ConsoleApp4\bin\Debug\System.Buffers.dll
+C:\Users\Comp\Desktop\ConsoleApp4\ConsoleApp4\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Comp\Desktop\ConsoleApp4\ConsoleApp4\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Comp\Desktop\ConsoleApp4\ConsoleApp4\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Comp\Desktop\ConsoleApp4\ConsoleApp4\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Comp\Desktop\ConsoleApp4\ConsoleApp4\bin\Debug\MySql.Data.xml
+C:\Users\Comp\Desktop\ConsoleApp4\ConsoleApp4\obj\Debug\ConsoleApp4.csprojAssemblyReference.cache
+C:\Users\Comp\Desktop\ConsoleApp4\ConsoleApp4\obj\Debug\ConsoleApp4.exe.config
+C:\Users\Comp\Desktop\ConsoleApp4\ConsoleApp4\obj\Debug\ConsoleApp4.Form1.resources
+C:\Users\Comp\Desktop\ConsoleApp4\ConsoleApp4\obj\Debug\ConsoleApp4.Form2.resources
+C:\Users\Comp\Desktop\ConsoleApp4\ConsoleApp4\obj\Debug\ConsoleApp4.csproj.GenerateResource.cache
+C:\Users\Comp\Desktop\ConsoleApp4\ConsoleApp4\obj\Debug\ConsoleApp4.csproj.CoreCompileInputs.cache
+C:\Users\Comp\Desktop\ConsoleApp4\ConsoleApp4\obj\Debug\ConsoleApp4.csproj.CopyComplete
+C:\Users\Comp\Desktop\ConsoleApp4\ConsoleApp4\obj\Debug\ConsoleApp4.exe
+C:\Users\Comp\Desktop\ConsoleApp4\ConsoleApp4\obj\Debug\ConsoleApp4.pdb
+C:\Users\Comp\Desktop\ConsoleApp4\ConsoleApp4\obj\Debug\ConsoleApp4.Form3.resources
+C:\Users\Comp\Desktop\ConsoleApp4\ConsoleApp4\obj\Debug\ConsoleApp4.Form4.resources
+C:\Users\Comp\Desktop\ConsoleApp4\ConsoleApp4\obj\Debug\ConsoleApp4.Properties.Resources.resources
+C:\Users\Comp\Desktop\ConsoleApp4\ConsoleApp4\obj\Debug\ConsoleApp4.Form5.resources
+C:\Users\Comp\Desktop\ConsoleApp4\ConsoleApp4\obj\Debug\ConsoleApp4.Form6.resources
+C:\Users\Comp\Desktop\ConsoleApp4\ConsoleApp4\obj\Debug\ConsoleApp4.Form7.resources
+C:\Users\Comp\Desktop\ConsoleApp4\ConsoleApp4\obj\Debug\ConsoleApp4.Form8.resources
+C:\Users\Comp\Desktop\ConsoleApp4\ConsoleApp4\obj\Debug\ConsoleApp4.Form9.resources
+C:\Users\Comp\Desktop\ConsoleApp4\ConsoleApp4\obj\Debug\ConsoleApp4.Form10.resources
+C:\Users\popuk\OneDrive\Рабочий стол\ConsoleApp4\ConsoleApp4\bin\Debug\ConsoleApp4.exe.config
+C:\Users\popuk\OneDrive\Рабочий стол\ConsoleApp4\ConsoleApp4\bin\Debug\ConsoleApp4.exe
+C:\Users\popuk\OneDrive\Рабочий стол\ConsoleApp4\ConsoleApp4\bin\Debug\ConsoleApp4.pdb
+C:\Users\popuk\OneDrive\Рабочий стол\ConsoleApp4\ConsoleApp4\bin\Debug\Google.Protobuf.dll
+C:\Users\popuk\OneDrive\Рабочий стол\ConsoleApp4\ConsoleApp4\bin\Debug\Zstandard.Net.dll
+C:\Users\popuk\OneDrive\Рабочий стол\ConsoleApp4\ConsoleApp4\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\popuk\OneDrive\Рабочий стол\ConsoleApp4\ConsoleApp4\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\popuk\OneDrive\Рабочий стол\ConsoleApp4\ConsoleApp4\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\popuk\OneDrive\Рабочий стол\ConsoleApp4\ConsoleApp4\bin\Debug\Renci.SshNet.dll
+C:\Users\popuk\OneDrive\Рабочий стол\ConsoleApp4\ConsoleApp4\bin\Debug\System.Memory.dll
+C:\Users\popuk\OneDrive\Рабочий стол\ConsoleApp4\ConsoleApp4\bin\Debug\System.Buffers.dll
+C:\Users\popuk\OneDrive\Рабочий стол\ConsoleApp4\ConsoleApp4\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\popuk\OneDrive\Рабочий стол\ConsoleApp4\ConsoleApp4\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\popuk\OneDrive\Рабочий стол\ConsoleApp4\ConsoleApp4\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\popuk\OneDrive\Рабочий стол\ConsoleApp4\ConsoleApp4\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\popuk\OneDrive\Рабочий стол\ConsoleApp4\ConsoleApp4\bin\Debug\MySql.Data.xml
+C:\Users\popuk\OneDrive\Рабочий стол\ConsoleApp4\ConsoleApp4\obj\Debug\ConsoleApp4.csproj.AssemblyReference.cache
+C:\Users\popuk\OneDrive\Рабочий стол\ConsoleApp4\ConsoleApp4\obj\Debug\ConsoleApp4.exe.config
+C:\Users\popuk\OneDrive\Рабочий стол\ConsoleApp4\ConsoleApp4\obj\Debug\ConsoleApp4.Form10.resources
+C:\Users\popuk\OneDrive\Рабочий стол\ConsoleApp4\ConsoleApp4\obj\Debug\ConsoleApp4.Form9.resources
+C:\Users\popuk\OneDrive\Рабочий стол\ConsoleApp4\ConsoleApp4\obj\Debug\ConsoleApp4.Form1.resources
+C:\Users\popuk\OneDrive\Рабочий стол\ConsoleApp4\ConsoleApp4\obj\Debug\ConsoleApp4.Form2.resources
+C:\Users\popuk\OneDrive\Рабочий стол\ConsoleApp4\ConsoleApp4\obj\Debug\ConsoleApp4.Form3.resources
+C:\Users\popuk\OneDrive\Рабочий стол\ConsoleApp4\ConsoleApp4\obj\Debug\ConsoleApp4.Form4.resources
+C:\Users\popuk\OneDrive\Рабочий стол\ConsoleApp4\ConsoleApp4\obj\Debug\ConsoleApp4.Form5.resources
+C:\Users\popuk\OneDrive\Рабочий стол\ConsoleApp4\ConsoleApp4\obj\Debug\ConsoleApp4.Form6.resources
+C:\Users\popuk\OneDrive\Рабочий стол\ConsoleApp4\ConsoleApp4\obj\Debug\ConsoleApp4.Form7.resources
+C:\Users\popuk\OneDrive\Рабочий стол\ConsoleApp4\ConsoleApp4\obj\Debug\ConsoleApp4.Form8.resources
+C:\Users\popuk\OneDrive\Рабочий стол\ConsoleApp4\ConsoleApp4\obj\Debug\ConsoleApp4.Properties.Resources.resources
+C:\Users\popuk\OneDrive\Рабочий стол\ConsoleApp4\ConsoleApp4\obj\Debug\ConsoleApp4.csproj.GenerateResource.cache
+C:\Users\popuk\OneDrive\Рабочий стол\ConsoleApp4\ConsoleApp4\obj\Debug\ConsoleApp4.csproj.CoreCompileInputs.cache
+C:\Users\popuk\OneDrive\Рабочий стол\ConsoleApp4\ConsoleApp4\obj\Debug\ConsoleApp4.csproj.CopyComplete
+C:\Users\popuk\OneDrive\Рабочий стол\ConsoleApp4\ConsoleApp4\obj\Debug\ConsoleApp4.exe
+C:\Users\popuk\OneDrive\Рабочий стол\ConsoleApp4\ConsoleApp4\obj\Debug\ConsoleApp4.pdb
